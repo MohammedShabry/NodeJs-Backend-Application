@@ -8,15 +8,19 @@ weatherApp
 ├── config
 
 │ └── db.js
+
 ├── controllers
 
 │ └── userController.js
+
 ├── models
 
 │ └── User.js
+
 ├── routes
 
 │ └── userRoutes.js
+
 ├── utils
 
 │ └── weather.js
