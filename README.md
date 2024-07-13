@@ -30,7 +30,7 @@ weatherApp
 └── server.js
 
 ## Set up environment variables:
-PORT=
+PORT= <br>
 MONGODB_URI=
 OPENWEATHERMAP_API_KEY=
 GMAIL_USER=
