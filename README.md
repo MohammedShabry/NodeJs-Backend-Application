@@ -4,7 +4,7 @@ This project is a Node.js API that stores users’ emails and locations, and aut
 ## Project Structure
 
 The project structure is organized as follows:
-weatherApp
+weatherApp<br>
 ├── config<br>
 │ └── db.js<br>
 ├── controllers<br>
