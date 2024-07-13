@@ -41,6 +41,5 @@ GMAIL_PASS=
 Users
 POST /api/users: Create a new user with email and location.
 PUT /api/users: Update a user's location.
-GET /api/users/weather?email=user@example.com&date=2023-07-01: 
-
-
+GET /api/users/weather?email=user@example.com&date=2023-07-01:
+ 
