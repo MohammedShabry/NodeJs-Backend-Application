@@ -6,16 +6,23 @@ This project is a Node.js API that stores users’ emails and locations, and aut
 The project structure is organized as follows:
 weatherApp
 ├── config
+
 │ └── db.js
 ├── controllers
+
 │ └── userController.js
 ├── models
+
 │ └── User.js
 ├── routes
+
 │ └── userRoutes.js
 ├── utils
+
 │ └── weather.js
+
 ├── app.js
+
 └── server.js
 
 ## Set up environment variables:
